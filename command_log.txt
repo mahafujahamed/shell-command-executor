@@ -1,7 +1,0 @@
-Sat Nov 23 02:25:04 BST 2024 - ls
-Sat Nov 23 02:25:40 BST 2024 - df
-Sat Nov 23 02:25:51 BST 2024 - top
-Sat Nov 23 02:26:48 BST 2024 - ps aux
-Sat Nov 23 02:28:42 BST 2024 - cat command_log.txt
-Sat Nov 23 03:42:47 BST 2024 - mkdir users
-Sat Nov 23 03:42:50 BST 2024 - ls
